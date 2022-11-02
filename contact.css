@@ -12,6 +12,8 @@
   margin: 293px auto 0 88px;
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .u-section-1 .u-text-1 {
   font-weight: 400;
   font-size: 6rem;
