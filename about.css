@@ -21,6 +21,8 @@
   padding: 30px 0;
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .u-section-1 .u-text-1 {
   font-size: 8.125rem;
   letter-spacing: 8px;
