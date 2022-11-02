@@ -25,6 +25,8 @@
   margin: 35px auto 0;
 }
 
+html, body {margin: 0; height: 100%; overflow: hidden}
+
 .u-section-1 .u-group-1 {
   width: 1026px;
   min-height: 485px;
